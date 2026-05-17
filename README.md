@@ -1,16 +1,16 @@
-# React + Vite
+## 🚀 Project Pitch / Business Impact
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The “Rooted by Hope” website was designed to support a small, local business with limited operational resources by providing a central online presence.
 
-Currently, two official plugins are available:
+The website improves visibility by allowing customers to view products, pricing, and brand information in one place, rather than relying solely on word-of-mouth or individual communication.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Currently, order coordination, delivery, and payment are managed directly through customer communication initiated via the website. This approach allows the business to operate without the high cost or complexity of automated logistics systems at an early stage.
 
-## React Compiler
+As the business grows, the website will serve as a scalable communication hub for:
+- New product announcements
+- Updated pricing
+- Customer engagement and inquiries
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Importantly, the system also reduces the need for the business owner to publicly share personal contact details, improving privacy and safety while still enabling direct customer interaction through controlled communication channels.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Overall, the website acts as a low-cost digital infrastructure layer that supports business growth, customer accessibility, and operational efficiency.
