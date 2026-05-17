@@ -1,4 +1,6 @@
 ## 🚀 Project Pitch / Business Impact
+🌐 Live Website: https://rooted-by-hope.netlify.app/
+
 
 The “Rooted by Hope” website was designed to support a small, local business with limited operational resources by providing a central online presence.
 
